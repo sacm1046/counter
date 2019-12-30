@@ -1,3 +1,13 @@
-body {
-    background-color: #3f4455;
+h1, i{
+    background: black;
+    color: white;
+    padding: 15px 0 10px 0;
+    text-align: center;
+    width: 90px;
+    height: 80px;
+    border-radius: 30px;
+    font-weight: bold;
 }
+i{
+    font-size: 50px;
+} 
